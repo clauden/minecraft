@@ -1,0 +1,5 @@
+item.genericItem.name=Special Generic Item
+item.genericIngot.name=Special Generic Ingot
+
+// "tile" for blocks...?
+tile.genericBlock.name=Special Generic Block
