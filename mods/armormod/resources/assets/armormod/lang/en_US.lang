@@ -1,0 +1,10 @@
+item.genericItem.name=ArmorMod Generic Item
+item.genericIngot.name=ArmorMod Generic Ingot
+
+// "tile" for blocks...?
+tile.GenericBlock.name=ArmorMod Generic Block
+
+item.ArmorHelmet.name=ArmorMod Helmet lang
+item.ArmorPlate.name=ArmorMod Plate lang
+item.ArmorLegs.name=ArmorMod Legs lang
+item.ArmorBoots.name=ArmorMod Boots lang
