@@ -1,7 +1,7 @@
 package com.coastroad.mc.armormod.client;
 
 import net.minecraftforge.client.MinecraftForgeClient;
-import com.coastroad.mc.firstmod.CommonProxy;
+import com.coastroad.mc.armormod.CommonProxy;
 
 public class ClientProxy extends CommonProxy {
         
